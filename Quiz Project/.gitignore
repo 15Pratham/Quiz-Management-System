@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Database (Keep your local data private)
+db.sqlite3
+
+# Static/Media files (usually not tracked in Git)
+media/
+static/
